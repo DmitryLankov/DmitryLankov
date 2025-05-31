@@ -1,5 +1,3 @@
-![Image](https://github.com/DmitryLankov/DmitryLankov/blob/master/Image.jpg)
-
 ### Skills
 
 <p align="left">
